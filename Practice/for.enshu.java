@@ -1,4 +1,4 @@
-public class Main {
+public class Practice {
     public static void main(String[] args){
         System.out.println("1～10の整数を入力してください。");
           int i = new java.util.Scanner(System.in).nextInt();
